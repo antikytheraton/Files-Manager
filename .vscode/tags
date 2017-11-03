@@ -1,0 +1,53 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLOWED_HOSTS	../files_manager/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../files_manager/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:87
+AppConfig	../files/apps.py	/^from django.apps import AppConfig$/;"	kind:namespace	line:1
+BASE_DIR	../files_manager/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+DATABASES	../files_manager/settings.py	/^DATABASES = {$/;"	kind:variable	line:76
+DEBUG	../files_manager/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+FilesConfig	../files/apps.py	/^class FilesConfig(AppConfig):$/;"	kind:class	line:4
+INSTALLED_APPS	../files_manager/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../files_manager/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:106
+MIDDLEWARE	../files_manager/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:42
+ROOT_URLCONF	../files_manager/settings.py	/^ROOT_URLCONF = 'files_manager.urls'$/;"	kind:variable	line:52
+SECRET_KEY	../files_manager/settings.py	/^SECRET_KEY = '62(a3xu8a423w1&chvvjj96%g-!6q$!uyw2z6r@io9y@ld3o#@'$/;"	kind:variable	line:23
+STATIC_URL	../files_manager/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:120
+TEMPLATES	../files_manager/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:54
+TIME_ZONE	../files_manager/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:108
+TestCase	../files/tests.py	/^from django.test import TestCase$/;"	kind:namespace	line:1
+USE_I18N	../files_manager/settings.py	/^USE_I18N = True$/;"	kind:variable	line:110
+USE_L10N	../files_manager/settings.py	/^USE_L10N = True$/;"	kind:variable	line:112
+USE_TZ	../files_manager/settings.py	/^USE_TZ = True$/;"	kind:variable	line:114
+WSGI_APPLICATION	../files_manager/settings.py	/^WSGI_APPLICATION = 'files_manager.wsgi.application'$/;"	kind:variable	line:70
+__init__.py	../files/__init__.py	1;"	kind:file	line:1
+__init__.py	../files/migrations/__init__.py	1;"	kind:file	line:1
+__init__.py	../files_manager/__init__.py	1;"	kind:file	line:1
+admin	../files/admin.py	/^from django.contrib import admin$/;"	kind:namespace	line:1
+admin	../files_manager/urls.py	/^from django.contrib import admin$/;"	kind:namespace	line:17
+admin.py	../files/admin.py	1;"	kind:file	line:1
+application	../files_manager/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+apps.py	../files/apps.py	1;"	kind:file	line:1
+django	../manage.py	/^            import django$/;"	kind:namespace	line:14
+execute_from_command_line	../manage.py	/^        from django.core.management import execute_from_command_line$/;"	kind:namespace	line:8
+get_wsgi_application	../files_manager/wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	kind:namespace	line:12
+manage.py	../manage.py	1;"	kind:file	line:1
+models	../files/models.py	/^from django.db import models$/;"	kind:namespace	line:1
+models.py	../files/models.py	1;"	kind:file	line:1
+name	../files/apps.py	/^    name = 'files'$/;"	kind:variable	line:5
+os	../files_manager/settings.py	/^import os$/;"	kind:namespace	line:13
+os	../files_manager/wsgi.py	/^import os$/;"	kind:namespace	line:10
+os	../manage.py	/^import os$/;"	kind:namespace	line:2
+render	../files/views.py	/^from django.shortcuts import render$/;"	kind:namespace	line:1
+settings.py	../files_manager/settings.py	1;"	kind:file	line:1
+sys	../manage.py	/^import sys$/;"	kind:namespace	line:3
+tests.py	../files/tests.py	1;"	kind:file	line:1
+url	../files_manager/urls.py	/^from django.conf.urls import url$/;"	kind:namespace	line:16
+urlpatterns	../files_manager/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urls.py	../files_manager/urls.py	1;"	kind:file	line:1
+views.py	../files/views.py	1;"	kind:file	line:1
+wsgi.py	../files_manager/wsgi.py	1;"	kind:file	line:1
